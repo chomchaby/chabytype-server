@@ -35,3 +35,5 @@ export const randomWords = (mode, n) => {
   }
   return result;
 };
+
+export const languages = ["english 1k", "english 5k", "english 10k"];
